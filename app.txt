@@ -8,3 +8,4 @@ This project allows contributors to:
 - Participate in code review and request changes.
 - Understand basic continuous integration (CI) workflow.
 
+# Test CI pipeline
