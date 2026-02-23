@@ -1,8 +1,9 @@
 Collaboration Demo Project
 Version 1.0
-Feature: Helps users practice collaborative development workflows using GitHub.
+Feature: Allows practicing Git workflows.
 This project allows contributors to:
 - Create and manage branches for each feature or issue.
 - Open issues and submit pull requests.
 - Participate in code review and request changes.
 - Understand basic continuous integration (CI) workflow.
+
